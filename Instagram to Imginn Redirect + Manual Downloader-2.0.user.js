@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Instagram linklerini imginn'e yönlendirir ve manuel indirme butonu ekler (mobil uyumlu)
-// @author       chatGPT
 // @match        *://www.instagram.com/*
 // @match        *://imginn.com/*
 // @grant        none
